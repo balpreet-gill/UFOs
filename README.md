@@ -6,8 +6,10 @@
 ## Results 
 - The final webpage has multiple filters created as shown in the picture.
 - The second picture shows the filter created for 1/2/2010 to narrow down the search. 
-- 
-- 
+- ![UFO 1](https://user-images.githubusercontent.com/95098281/159345632-bab9865e-9d67-443a-ae44-ecc69a93449d.png)
+
+- ![UFO 2](https://user-images.githubusercontent.com/95098281/159345641-1b3e76ed-ba6b-499f-8a32-81886a1ac339.png)
+
 
 ## Summary 
 ### Drawback 
